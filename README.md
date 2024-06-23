@@ -20,6 +20,25 @@ This project performs analytics over the Indian Agriculture dataset provided by 
    git clone <repository-url>
    cd indian-agriculture-analytics
 
+2. **Install dependencies:**
+   ```bash
+   yarn install
+3. **File Structure**
+   ```bash
+   /public
+   ├── Data.json               # Indian agriculture dataset
+   /src
+   ├── Components
+   │   ├── AnalyticsTables.tsx # Component to display analytics tables
+   │   ├── AnalyticsTables.module.css # CSS Module for AnalyticsTables component
+   │   ├── ColorSchemeToggle.tsx # Component for toggling color scheme
+   ├── utils
+   │   ├── HandleData.ts       # Utility functions for data parsing and analytics
+   ├── App.tsx                 # Main App component
+   ├── index.tsx               # Entry point of the application
+   ├── styles.css              # Global styles
+
+
 ![image](https://github.com/Uriyo/tables/assets/87664057/7fdb8e3c-2b7d-4ac0-a09a-d4d95c067ace)
 
 
