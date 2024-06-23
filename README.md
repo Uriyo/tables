@@ -1,4 +1,24 @@
-# Getting Started with Create React App
+# Indian Agriculture Analytics
+
+This project performs analytics over the Indian Agriculture dataset provided by the National Data and Analytics Platform (NITI Aayog). The results are displayed in tables using Mantine components. The application also supports dark mode.
+
+## Features
+
+- **Data Analytics**: Calculate and display the crop with maximum and minimum production per year and the average yield and cultivation area of crops between 1950-2020.
+
+## Tech Stack
+
+- **React**
+- **TypeScript**
+- **Mantine**
+- **CSS Modules**
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone <repository-url>
+   cd indian-agriculture-analytics
 
 ![image](https://github.com/Uriyo/tables/assets/87664057/7fdb8e3c-2b7d-4ac0-a09a-d4d95c067ace)
 
