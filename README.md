@@ -31,7 +31,6 @@ This project performs analytics over the Indian Agriculture dataset provided by 
    ├── Components
    │   ├── AnalyticsTables.tsx # Component to display analytics tables
    │   ├── AnalyticsTables.module.css # CSS Module for AnalyticsTables component
-   │   ├── ColorSchemeToggle.tsx # Component for toggling color scheme
    ├── utils
    │   ├── HandleData.ts       # Utility functions for data parsing and analytics
    ├── App.tsx                 # Main App component
