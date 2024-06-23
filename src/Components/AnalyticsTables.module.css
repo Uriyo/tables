@@ -1,0 +1,24 @@
+
+.table {
+    margin: 20px 0;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .th {
+    color: black;
+    background-color: rgb(15, 12, 12);
+    padding: 10px;
+    color: white;
+  }
+  
+  .td {
+    padding: 10px;
+  }
+  
+  .rowHover:hover {
+    background-color: rgb(187, 186, 186);
+  }
+  
